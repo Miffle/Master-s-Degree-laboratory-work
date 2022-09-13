@@ -1,0 +1,1 @@
+First information writes to file Information writes to end of file
